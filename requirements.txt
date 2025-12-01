@@ -1,0 +1,13 @@
+retina-face
+facenet-pytorch
+torch
+torchvision
+opencv-python
+tqdm
+pandas
+Pillow
+matplotlib
+scikit-learn
+numpy
+seaborn
+gdown
