@@ -1,0 +1,54 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment variables
+.env
+.env.local
+
+# Uploads folder (file yang diupload user)
+uploads/*
+!uploads/.gitkeep
+
+# Models folder - ignore semua file model tapi keep foldernya
+app/models/*
+!app/models/.gitkeep
+!app/models/README.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flask
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
