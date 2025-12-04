@@ -20,8 +20,8 @@ Penekanan utama:
 
 Link ke dokumen akhir dan laporan terkait:
 
-- Final Project PPT: [CVL_Group_4_Final_Project](PPT Final Project CVL_Group 4.pdf)
-- Laporan: [Paper](Video and Image Manipulation Detection Based on ResNet and EfficientNet.pdf`)
+- Final Project PPT: [CVL_Group_4_Final_Project](PPT_Final_Project_CVL_Group_4.pdf)
+- Laporan: [Paper](Video_and_Image_Manipulation_Detection_Based_on_ResNet_and_EfficientNet.pdf)
 
 ## Eksperimen & Model
 
