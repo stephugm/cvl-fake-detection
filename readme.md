@@ -20,13 +20,13 @@ Penekanan utama:
 
 Link ke dokumen akhir dan laporan terkait:
 
-- Final Project PPT: `CVL_Group_4_Final_Project.pptx`
-- Laporan: `docs/Video_and_Image_Manipulation_Detection_Based_on_ResNet_and_EfficientNet.pdf`
+- Final Project PPT: [CVL_Group_4_Final_Project](CVL_Group_4_Final_Project.pptx)
+- Laporan: [Paper](Video_and_Image_Manipulation_Detection_Based_on_ResNet_and_EfficientNet.pdf`)
 
 ## Eksperimen & Model
 
 - Notebook pelatihan dan evaluasi ada di `code/experiment`.
-- Model terlatih (contoh) tersedia di `https://drive.google.com/drive/folders/1-lxbnWmj4mC-bX0Md1L89dYt2lrDdJbK?usp=sharing` (mis. `ResNet50_final.keras`).
+- Model terlatih (contoh) tersedia di [View models in Google Drive](https://drive.google.com/drive/folders/1-lxbnWmj4mC-bX0Md1L89dYt2lrDdJbK?usp=sharing) (mis. `ResNet50_final.keras`).
 
 Untuk mengeksekusi atau menyesuaikan eksperimen, buka notebook yang relevan dan ikuti cell dokumentasi di dalamnya.
 
